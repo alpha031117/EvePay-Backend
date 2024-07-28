@@ -33,7 +33,7 @@ except environ.ImproperlyConfigured:
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.environ.get('DEBUG')
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'https://evepay.onrender.com']
 
 
 # Application definition
@@ -63,9 +63,7 @@ MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
 ]
 
-CORS_ALLOWED_ORIGINS = [
-    'http://localhost:3000',  
-]
+CORS_ALLOWED_ALL_ORIGINS = True
 
 ROOT_URLCONF = 'core.urls'
 
