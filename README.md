@@ -16,5 +16,9 @@ MasChain Documentation: https://docs.maschain.com/<br />
 ## Project Demo Link:
 https://www.youtube.com/watch?v=mNYHuk88xAQ
 
-# the Team
-me, https://github.com/marson00, https://github.com/Jing-Rou, https://github.com/doodledaron and https://github.com/Chingyee129
+# Team
+1. [AlphaChong](https://github.com/alpha031117) - Backend Developer
+2. [Doodledaron](https://github.com/Chingyee129) - Business/ Pitching Role
+3. [Chingyee](https://github.com/doodledaron) - Backend Developer
+4. [Marson](https://github.com/marson00) - Frontend Developer
+5. [JingRou](https://github.com/Jing-Rou) - Frontend Developer
