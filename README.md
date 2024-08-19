@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=mNYHuk88xAQ
 
 # Team
 1. [AlphaChong](https://github.com/alpha031117) - Backend Developer
-2. [Doodledaron](https://github.com/Chingyee129) - Business/ Pitching Role
-3. [Chingyee](https://github.com/doodledaron) - Backend Developer
+2. [Doodledaron](https://github.com/doodledaron) - Business/ Pitching Role
+3. [Chingyee](https://github.com/Chingyee129) - Backend Developer
 4. [Marson](https://github.com/marson00) - Frontend Developer
 5. [JingRou](https://github.com/Jing-Rou) - Frontend Developer
