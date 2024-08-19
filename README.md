@@ -1,5 +1,5 @@
-## Overview
-This is a web3 hackathon project. The blockchain platform that we are using is MasChain which is Malaysia's first Layer 1 blokchain. Its a nextJS project with Django Rest Framework API backend.
+#EvePay
+This is a web3 hackathon project. The blockchain platform that we are using is MasChain which is Malaysia's first Layer 1 blokchain. It is a combination of [NextJS frontend](https://github.com/marson00/stealthmode-hackathon-blockchain) with [Django Rest Framework API backend](https://github.com/alpha031117/EvePay-Backend) with different repository.
 
 ## Project description 
 EvePay is proposed to increase the number of EV charging stations by unifying all the charging station’s payment gateway.
