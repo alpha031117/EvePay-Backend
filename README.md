@@ -5,9 +5,9 @@ This is a web3 hackathon project. The blockchain platform that we are using is M
 EvePay is proposed to increase the number of EV charging stations by unifying all the charging station’s payment gateway.
 
 ## How to run
-In order to run the application, please make sure you have created your MasChain test-net account.
-MasChain Portal: https://portal-testnet.maschain.com/login
-MasChain Documentation: https://docs.maschain.com/
+In order to run the application, please make sure you have created your MasChain test-net account.<br />
+MasChain Portal: https://portal-testnet.maschain.com/login<br />
+MasChain Documentation: https://docs.maschain.com/<br />
 1. `pip install requirements.txt` to install all requirements dependencies
 2. `py manage.py makemigrations` to make database migration
 3. `py manage.py migrate` to migrate all changes
